@@ -1,1 +1,1 @@
-# priklady-podminky
+# Kung-Fu: Podmínky
